@@ -77,12 +77,6 @@ The objective is to create a P2S VPN connection that allows a remote machine to 
 
 ---
 
-## **License** 🔒
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
 ## **Contributing** 🙌
 
 Contributions are welcome! Please create a pull request with your updates or suggestions.
