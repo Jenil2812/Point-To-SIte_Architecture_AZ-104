@@ -9,6 +9,7 @@ This repository contains a step-by-step guide for setting up a Point-to-Site (P2
 The objective is to create a P2S VPN connection that allows a remote machine to securely access an Azure virtual machine using its private IP address.
 
 ---
+![Architecture](https://github.com/user-attachments/assets/a3e81eda-e893-4b46-924d-271418d9dbf6)
 
 ## **Steps to Configure Point-to-Site VPN**
 
